@@ -239,7 +239,7 @@ The structure may evolve as the application is implemented.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AlokAI99/langgraph-ai-blog-writer.git
+git clone https://github.com/langgraph-ai-blog-writer.git
 cd langgraph-ai-blog-writer
 ```
 
