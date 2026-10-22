@@ -12,7 +12,7 @@ The project explores how AI agents can combine task planning, conditional routin
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Overview](#-overview)
 - [Why This Project?](#-why-this-project)
